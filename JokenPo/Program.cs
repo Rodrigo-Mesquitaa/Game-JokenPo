@@ -99,7 +99,7 @@ namespace JokenPo
                 Console.WriteLine("  | |   | __ || _|    | (_ | / _  | | |v | || _|  ");
                 Console.WriteLine("  |_|   |_||_||___|    |___|/_/ |_| |_|  |_||___| ");
                 Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("(C) Checkpoint 2019");
+                Console.WriteLine("(C) Checkpoint 2021");
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Digite os números entre 1 e 4 para selecionar os menus");
                 Console.WriteLine();
